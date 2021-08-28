@@ -13,6 +13,6 @@ This projects aims to analyse wind energy for five study regions of the same sta
 [Red Curve - Prediction, Blue Curve - Actual Dataset]
 
 - *Auto Regression (AR) model*
-![image](https://user-images.githubusercontent.com/55729258/131213659-f21f5cdf-aefb-4423-a68c-9c2e79933f89.png)
-MAE Score = 0.427
+  ![image](https://user-images.githubusercontent.com/55729258/131213659-f21f5cdf-aefb-4423-a68c-9c2e79933f89.png)
+  MAE Score = 0.427
 
